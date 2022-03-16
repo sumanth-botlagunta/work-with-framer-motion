@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.framer-div{
+  background-color: #282c34;
+  color: aquamarine;
+  width: 10rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  box-shadow: #0db862 0px 0px 20px;
+
+}
